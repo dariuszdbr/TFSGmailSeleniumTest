@@ -1,0 +1,8 @@
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumTesty\SeleniumTesty\bin\Debug\SeleniumTesty.exe.config
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumTesty\SeleniumTesty\bin\Debug\SeleniumTesty.exe
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumTesty\SeleniumTesty\bin\Debug\SeleniumTesty.pdb
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumTesty\SeleniumTesty\bin\Debug\WebDriver.dll
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumTesty\SeleniumTesty\bin\Debug\WebDriver.xml
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumTesty\SeleniumTesty\obj\Debug\SeleniumTesty.csprojResolveAssemblyReference.cache
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumTesty\SeleniumTesty\obj\Debug\SeleniumTesty.exe
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumTesty\SeleniumTesty\obj\Debug\SeleniumTesty.pdb
